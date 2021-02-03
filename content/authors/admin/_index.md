@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Con alma de ají dulce
+  url: https://www.fundacionciev.com/con-alma-de-aji-dulce/
+role: El Rey de la Cocina Venezolana
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,11 +39,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Aji Dulce
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+"Sin duda hay algo de ají dulce en nosotros. De todas las maravillas que esconde el suelo venezolano, una se decanta generosamente en la mayoría de nuestras expresiones gastronómicas, dando sabor a todo lo que toca. De oriente a occidente y de norte a sur se utiliza el ají dulce religiosamente. Este pequeño fruto de colores brillantes, consistencia crocante, aroma intenso y escandalosamente gustoso se asemeja a nuestra complexión: si el cacao es nuestros pies, el café nuestro aroma y el petróleo corre por nuestras venas, el ají es el alma de los venezolanos. Pícaro con sus tonos de sabor dulce e intenso; batallador, puede crecer en casi cualquier lugar; sorpresivo, nunca se sabe si hay algo picante oculto; alegre, siempre con sus vibrantes colores; y versátil, combina con todo."
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

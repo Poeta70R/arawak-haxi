@@ -1,26 +1,25 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: 
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 email: ""
 highlight_name: false
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Con alma de ají dulce
-  url: https://www.fundacionciev.com/con-alma-de-aji-dulce/
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
+# organizations:
+#  - name: Con alma de ají dulce
+#  url: https://www.fundacionciev.com/con-alma-de-aji-dulce/
 role: El Rey de la Cocina Venezolana
 social:
 - icon: envelope
@@ -29,15 +28,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 superuser: true
 title: Aji Dulce
 ---
